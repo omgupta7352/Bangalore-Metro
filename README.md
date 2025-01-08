@@ -28,7 +28,7 @@ Welcome to the **Bangalore Metro**! This web application helps commuters in Bang
 
 ## Demo
 
-You can try out the **Bangalore Metro** live [here](https://your-live-demo-url.com).
+You can try out the **Bangalore Metro** live [here](https://omgupta7352.github.io/Bangalore-Metro/).
 
 ## How to Use
 
