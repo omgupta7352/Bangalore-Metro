@@ -1,6 +1,7 @@
 # Bangalore Metro
 
-![Bangalore Metro](bangalore_metro.png)
+![Bangalore Metro](metro1.png)
+![](metro2.png)
 
 Welcome to the **Bangalore Metro**! This web application helps commuters in Bangalore find the shortest path between two points on the Bangalore Metro system. The project uses **Dijkstra's Algorithm** to calculate the shortest path and fare between metro stations, ensuring a smooth and efficient travel experience.
 
